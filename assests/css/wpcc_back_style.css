@@ -1,0 +1,33 @@
+p.wpcc_custom_tab_title_field input,p.wpcc_custom_tab_title_field textarea{
+    width:100% !important
+}
+#add_more_extra_table .removewpcctab{
+float: right;
+margin-right: 20px;
+padding: 0px 10px 2px 10px;
+background: #f00;
+color: #fff;
+text-decoration: none;
+border-radius: 5px;
+margin-top: -20px;
+}
+
+#add_more_extra_table div {
+    background: #f6f6f6;
+    margin: 2%;
+    padding: 10px;
+    border: 1px solid #f0f0f0;
+}
+.form-group.change {
+    float: right;
+    text-align: right;
+    margin-right: 25px;
+    margin-bottom: 20px;
+}
+.form-group.change a{
+   background: green;
+color: #fff;
+padding: 5px 10px;
+border-radius: 5px;
+cursor:pointer;
+}
